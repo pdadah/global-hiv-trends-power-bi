@@ -42,12 +42,12 @@ The report contains two interactive pages:
 ### Page 1 – The State of the HIV Epidemic
 Global and regional trends, 2000 – 2024
 
-![Dashboard 1](screenshots/HIV_Dashboard_Page1.png)
+(![Dashboard 1](screenshots/HIV_Dashboard_Page2.png))
 
 ### Page 2 – Treatment Access & Effectiveness
 ART coverage, country rankings, and programme performance
 
-![Dashboard 2](screenshots/HIV_Dashboard_Page2.png)
+![Dashboard 2](screenshots/HIV_Dashboard_Page1.png)
 
 ## Technical Build
 
